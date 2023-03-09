@@ -108,3 +108,12 @@ main {
     padding: 10px;
     text-align: center;
 }
+.read-more {
+    background: #bbd92c;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    margin-bottom: 10px;
+
+}
