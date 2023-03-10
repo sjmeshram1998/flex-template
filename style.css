@@ -117,3 +117,24 @@ main {
     margin-bottom: 10px;
 
 }
+
+@media screen and (max-width: 575px)  {
+.flex-container {
+    flex-direction: column;
+    
+
+}
+.sub-content{
+    flex-direction: column;
+}
+.nav ul{
+flex-direction: column;
+}
+.main-aside li {
+    display: block;
+  text-align: center;
+
+}
+
+}
+  
